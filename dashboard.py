@@ -221,7 +221,7 @@ def main():
     st.sidebar.markdown("### 🌐 Sobre o PrimePickz")
     st.sidebar.markdown("**Site:** primepickz.com.br")
     st.sidebar.markdown("**Tipo:** Blog de Afiliados Amazon")
-    st.sidebar.markdown("**Tag Afiliado:** welldigital25-20")
+    st.sidebar.markdown("**Tag Afiliado:** welldigital07-20")
     st.sidebar.markdown("**Categorias:** Beleza, Kindle, Livros, Saude e Bem Estar")
     
     end_date = datetime.now()
